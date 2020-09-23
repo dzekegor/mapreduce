@@ -1,0 +1,12 @@
+Indexer$TFIDFMapper.class
+Search.class
+Indexer$TFMapper.class
+Indexer$TFReducer.class
+Ranking$Reducer.class
+Indexer$TFIDFReducer.class
+Ranking.class
+Search$Map.class
+Search$Reduce.class
+Ranking$Mapper.class
+Ranking$RankDescending.class
+Indexer.class
